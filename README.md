@@ -1,5 +1,5 @@
 # mobile_development_assignment_3
-Programming assignment 3. Mobile development
+Programming assignment 3. Mobile development.
 implemented with react native
 
 Screenshots:
